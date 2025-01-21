@@ -48,7 +48,7 @@ python3 mrtame.py
 - **Reporting Features**: Generate detailed reports of scan results.  
 - **Integration with Other Tools**: Compatibility with other security tools for enhanced functionality.  
 - **Graphical User Interface (GUI)**: A more intuitive GUI for users who prefer a visual interface.
-- - **[REDACTED]**: A sub-tool that can track and trace **[REDACTED]** around you. 
+- **[REDACTED]**: A sub-tool that can track and trace **[REDACTED]** around you. 
 ## Contributing  
   
 Contributions are welcome! If you have suggestions for improvements or new features, feel free to open an issue or submit a pull request.  
